@@ -78,8 +78,8 @@ body {
   border-bottom: 1px solid #e7e7e7;
 }
 .sidebar ul li a.active {
-  background-color: #02a997;
-  color: #eee;
+  background-color: #eee;
+  color: #555;
 }
 .sidebar .arrow {
   float: right;
@@ -239,21 +239,21 @@ table.dataTable thead .sorting:after {
   font-size: 40px;
 }
 .panel-green {
-  border-color: #8dc125;
+  border-color: #e7e7e7;
 }
 .panel-green > .panel-heading {
-  border-color: #8dc125;
+  border-color: ##e7e7e7;
   color: white;
   background-color: #8dc125;
 }
 .panel-green > a {
-  color: #8dc125;
+  color: #555;
 }
 .panel-green > a:hover {
   color: #8dc125;
 }
 .panel-red {
-  border-color: #f03a2e;
+  border-color: #e7e7e7;
 }
 .panel-red > .panel-heading {
   border-color: #f03a2e;
@@ -261,21 +261,21 @@ table.dataTable thead .sorting:after {
   background-color: #f03a2e;
 }
 .panel-red > a {
-  color: #f03a2e;
+  color: #555;
 }
 .panel-red > a:hover {
   color: #f03a2e;
 }
 .panel-yellow {
-  border-color: #f09308;
+  border-color: #e7e7e7;
 }
 .panel-yellow > .panel-heading {
-  border-color: #f09308;
+  border-color: #e7e7e7;
   color: white;
   background-color: #f09308;
 }
 .panel-yellow > a {
-  color: #f09308;
+  color: #555;
 }
 .panel-yellow > a:hover {
   color: #f09308;
