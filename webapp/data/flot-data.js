@@ -1153,7 +1153,7 @@ $(function() {
             minBorderMargin: 20,
             labelMargin: 10,
             backgroundColor: {
-                colors: ["#fff", "#e4f4f4"]
+                colors: ["#fff", "#fff"]
             },
             margin: {
                 top: 8,
@@ -1169,7 +1169,7 @@ $(function() {
                             from: x,
                             to: x + xaxis.tickSize
                         },
-                        color: "rgba(232, 232, 255, 0.2)"
+                        color: "#eee"
                     });
                 }
                 return markings;
@@ -1182,7 +1182,7 @@ $(function() {
         },
         yaxis: {
             min: 0,
-            max: 110
+            max: 150
         },
         legend: {
             show: true
