@@ -1,0 +1,8 @@
+{"namespace": "com.cisco.pnda",
+ "type": "record",
+ "name": "PndaRecord",
+ "fields": [
+     {"name": "timestamp",   "type": "long"},
+     {"name": "mess",  "type": "bytes"}
+ ]
+}
